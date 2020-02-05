@@ -1,6 +1,4 @@
-# nuxt-example
-
-> My awesome nuxt emit project
+# Nuxt + Vue Paper Dashboard Theme
 
 ## Ако сакате да ја видите темата во оригинален формат:
 https://www.creative-tim.com/product/vue-paper-dashboard
